@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="create-admin-user" type="PLAIN_TEXT" />
+      <mapping pattern="create-admin-user.js" type="TypeScript JSX" />
+    </extensionMap>
+  </component>
+</application>
