@@ -122,6 +122,10 @@
           <option name="url" value="http://gitlab.com" />
           <option name="userName" value="lstice" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:the-junior-high-game/web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
